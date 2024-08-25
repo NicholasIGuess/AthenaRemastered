@@ -1,2 +1,2 @@
 # AthenaRemastered
-a better version of amoyzzz/athena because that was in java and it kinda sucked anyway
+i (along with a few other people) developed [Amoyzzz/Athena](github.com/amoyzzz/athena) for a hackathon. it wasn't that bad, and honestly i'm proud of how it turned out. however, there were multiple things that weren't so great with it, so i decided to recode the whole thing in c# for multiple reasons, those being that c# is a faster language, and that the executable produced by c# doesn't require the user to install things (original athena needed the user to install oracle jdk22).
